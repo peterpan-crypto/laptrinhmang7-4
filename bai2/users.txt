@@ -1,0 +1,4 @@
+admin admin
+guest nopass
+student student123
+ubuntu ubuntu64
